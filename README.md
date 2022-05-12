@@ -1,4 +1,5 @@
-### Hi I'm learning computer engineering💻
+### Hi!!
+#### I'm learning computer engineering💻
 <!--
 **subsub97/subsub97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
