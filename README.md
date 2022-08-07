@@ -1,5 +1,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97)](https://github.com/subsub97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97)](https://github.com/subsub97/github-readme-stats)
 
 📝Studying📝 <br>
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square=python&logo=python&logoColor=white"/>
