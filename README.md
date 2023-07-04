@@ -1,7 +1,5 @@
 # Introduce
-안녕하세요!!<br>
-현재는 하루 백준 1 솔브 1 커밋중입니다.<br>
-얼른 프로젝트 작업으로 Commit 하는 GitHub 만들기😁
+
 
 
 📝Studying📝 <br>
