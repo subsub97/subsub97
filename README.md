@@ -1,6 +1,7 @@
 # Introduce
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](javascript:void(location.href='mailto:godqhr721@gmail.com'))
 
-### Language & Platforms
+### Language & Framework
 
 <div>
   <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square=python&logo=python&logoColor=white"/>
