@@ -7,7 +7,8 @@
   안녕하세요! 궁금한 개발자 김득호입니다. <br>
   읽기 쉬운 코드를 작성하는 데 관심이 많고, 코드를 작성하면서 항상 "왜 이렇게 코드가 작성되어야 <br>
   하는지"에 대한 의문을 품고 있습니다. 다른 개발자분들이 작성한 코드를 보면서 그들의 의도와 생각을<br>
-  이해하고 공유하는 개발자가 되고 싶습니다.
+  이해하고 공유하는 개발자가 되고 싶습니다. <br>
+  저와 같은 관심을 가진 분들과 함께 소통하며 성장하고 싶습니다.
   
 
   ## 🏆 목표 🏆
@@ -15,19 +16,16 @@
   * 누구나 이해할 수 있게 코드 작성하기
   * 함께 일하고 싶은 개발자로 성장하기
   
-  ## 🔎 Current Learning 🔍
-  <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring-6DC33C?style=for-the-badge&logo=Spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-  </div>
-  
+  ## 🔎 현재 학습중 🔍
+  * 다양한 유형의 알고리즘 문제 해결 진행
+  * Modern Java in Action 서적을 통한 학습
+  * Spring & Spring Boot 필요성과 사용법
         
  
 </details>
 
 <details>
-<summary>💼 Top languages</summary>
+<summary>💼 주로 사용한 언어</summary>
  <div align = "center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97&hide=jupyter%20notebook&layout=compact)](https://github.com/subsub97/github-readme-stats)
@@ -39,12 +37,12 @@
 
 
 <details>
- <summary> 🧬 3D Stats</summary>
+ <summary> 🧬 Git 활동정보</summary>
  
  ![3D_log](./profile-3d-contrib/profile-south-season-animate.svg)
 </details>
 
-## ⚒️ 사용해본 기술 ⚒️
+## ⚒️ 기술 경험 ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
