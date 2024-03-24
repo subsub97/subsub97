@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=궁금한%20개발자%20&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi!%20&fontSize=90&animation=blink" />
 
 <details>
  <summary> ❓내가 더 궁금하다면? </summary>
