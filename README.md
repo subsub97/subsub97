@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=궁금한%20개발자&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=922e50&height=250&section=header&text=CLEAN%20CODE&fontSize=70&fontColor=gradient:1&animation=fadeIn" />
+
+
 
 <details>
- <summary> ❓ 내가 더 궁금하다면 </summary>
+ <summary> ❓ About Me </summary>
 
   ## 어떤 개발자 인가요?
   안녕하세요! 궁금한 개발자 김득호입니다. <br>
@@ -25,7 +27,7 @@
 </details>
 
 <details>
-<summary>💼 주로 사용한 언어</summary>
+<summary>💼 Top Language</summary>
  <div align = "center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97&hide=jupyter%20notebook&layout=compact)](https://github.com/subsub97/github-readme-stats)
@@ -37,12 +39,12 @@
 
 
 <details>
- <summary> 🧬 Git 활동정보</summary>
+ <summary> 🧬 Git Info</summary>
  
  ![3D_log](./profile-3d-contrib/profile-south-season-animate.svg)
 </details>
 
-## ⚒️ 기술 경험 ⚒️
+## ⚒️ Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
