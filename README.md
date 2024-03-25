@@ -84,7 +84,9 @@
 ## 📞 CONTACT 📞
 
 
-<span><a href="https://www.instagram.com/ho_d9.7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](javascript:void(location.href='mailto:godqhr721@gmail.com'))</a></span>
+<span><a href="https://www.instagram.com/ho_d9.7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:godqhr721@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a></span>
 
 
 
