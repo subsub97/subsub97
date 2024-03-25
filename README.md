@@ -4,6 +4,7 @@
 
 <details>
  <summary> ❓ About Me </summary>
+ <div>
 
   ## 어떤 개발자 인가요?
   안녕하세요! 호기심이 많은 개발자 김득호입니다. <br>
@@ -23,7 +24,7 @@
   * Modern Java in Action 서적을 통한 학습
   * Spring & Spring Boot 필요성과 사용법
         
- 
+ </div>
 </details>
 
 <details>
@@ -40,10 +41,13 @@
 
 <details>
  <summary> 🧬 Git Info</summary>
+ <div>
  
  ![3D_log](./profile-3d-contrib/profile-south-season-animate.svg)
 </details>
 
+ </div>
+ 
 ## ⚒️ Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
