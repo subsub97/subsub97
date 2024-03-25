@@ -77,6 +77,7 @@
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+     <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
     </div><br>
 </div>
 
@@ -86,6 +87,5 @@
 <span><a href="https://www.instagram.com/ho_d9.7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](javascript:void(location.href='mailto:godqhr721@gmail.com'))</a></span>
 
 
-최고!
 
 
