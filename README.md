@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>💼 Top Language</summary>
+<summary>📊 Top Language</summary>
  <div align = "center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97&hide=jupyter%20notebook&layout=compact)](https://github.com/subsub97/github-readme-stats)
