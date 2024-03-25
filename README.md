@@ -44,9 +44,11 @@
  <div>
  
  ![3D_log](./profile-3d-contrib/profile-south-season-animate.svg)
-</details>
 
  </div>
+</details>
+
+ 
  
 ## ⚒️ Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
