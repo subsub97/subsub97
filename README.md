@@ -21,7 +21,6 @@
   
   ## 🔎 현재 학습중 🔍
   * 다양한 유형의 알고리즘 문제 해결 진행
-  * Modern Java in Action 서적을 통한 학습
   * Spring & Spring Boot 필요성과 사용법
         
  </div>
@@ -63,13 +62,7 @@
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
