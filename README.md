@@ -1,92 +1,108 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=922e50&height=220&section=header&text=CLEAN%20CODER&fontSize=70&fontColor=black&animation=fadeIn" />
+<!-- Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=922e50&height=220&section=header&text=CLEAN%20CODER&fontSize=70&fontColor=black&animation=fadeIn" alt="banner"/>
+</p>
+
+## 👋 About Me
+
+안녕하세요, **읽기 쉬운 코드를 작성하기위해 노력하는 백엔드 개발자 김득호**입니다.
+코드를 작성할 때마다 **“왜 이렇게 구현해야 할까?”** 를 스스로 고민하고,
+다른 개발자의 의도와 사고 과정을 이해하며 함께 성장하는 것을 즐깁니다.
+**함께 개발하고 싶은 동료**로 기억되는 것이 저의 가장 큰 목표입니다.
+
+
+
+## 🎯 Goals
+
+* **이해‑중심 개발**: 코드를 이해하고 스스로 질문하는 습관 기르기
+* **함께 성장**: 동료와의 지식 공유로 팀 생산성 극대화하기
+
+
+## 🚀 Currently Learning
+
+* 다양한 유형의 **알고리즘 문제 해결**
+* **Spring Boot** 기반 서버 아키텍처 심화 학습
+
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### Cloud & Infra
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NHN%20Cloud-03C75A?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Collaboration & Others
+
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
+
+## 📂 Highlighted Projects
+
+|  기간    |  프로젝트             |  역할               |  한줄 소개                               |  링크                                                |
+| ------ | ----------------- | ----------------- | ------------------------------------ | -------------------------------------------------- |
+|  2025  |  **JEOGI**        |  Backend          |  여행지 정보를 공유하고 맞춤형 계획을 추천하는 플랫폼       |  [Repo](https://github.com/lets-go-trip/JEOGI_BE)  |
+|  2024  |  **soSOL**        |  Infra · Backend  |  카드 결제 후 남은 잔돈을 자동으로 투자해 주는 서비스      |  [Repo](https://github.com/Shinhan-soSOL)          |
+|  2024  |  **STOCK CRAFT**  |  Backend          |  소수점 주식 거래로 누구나 쉽게 투자할 수 있는 앱테크 서비스  |  [Repo](https://github.com/Exit1ofYeouido)         |
+|  2024  |  **ValueGA**      |  Infra · Backend  |  기업 가치를 데이터 기반으로 분석하는 서비스            |  [Repo](https://github.com/valueGa)                |
+
+> 각 프로젝트의 상세 기술 스택과 아키텍처 내용은 저장소 README에서 확인하실 수 있습니다.
+
+
+
+## 🧑‍💻 Ongoing Study
+
+* **Daily Algorithm Study** : 자료구조·알고리즘 문제를 해결하고 솔루션을 공유합니다. <a href="https://github.com/babplus-algorithm-study/daily-algorithm"><img src="https://img.shields.io/badge/Study Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 
 <details>
- <summary> ❓ About Me </summary>
- <div>
+<summary>📊 GitHub Stats</summary>
 
-  ## 어떤 개발자 인가요?
-  안녕하세요! CLEAN CODER가 되고 싶은 호기심이 많은 개발자 김득호입니다. <br>
-  읽기 쉬운 코드를 작성하는 데 관심이 많고, 코드를 작성하면서 항상 "왜 이렇게 코드가 작성되어야 <br>
-  하는지"에 대한 의문을 품고 있습니다. 다른 개발자분들이 작성한 코드를 보면서 그들의 의도와 생각을<br>
-  이해하고 공유하는 개발자가 되고 싶습니다. <br>
-  저와 같은 관심을 가진 분들과 함께 소통하며 성장하고 싶습니다.
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97&hide=jupyter%20notebook&layout=compact" alt="Top Langs"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subsub97" alt="WakaTime"/>
+</p>
 
-  ## 🏆 목표 🏆
-  * 코드를 이해하고 스스로 질문하는 습관 가지기
-  * 누구나 이해할 수 있게 코드 작성하기
-  * 함께 일하고 싶은 개발자로 성장하기
-  
-  ## 🔎 현재 학습중 🔍
-  * 다양한 유형의 알고리즘 문제 해결 진행
-  * Spring & Spring Boot 필요성과 사용법
-        
- </div>
+![3D\_log](./profile-3d-contrib/profile-south-season-animate.svg)
+
 </details>
 
-<details>
-<summary>📊 Top Language</summary>
- <div align = "center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subsub97&hide=jupyter%20notebook&layout=compact)](https://github.com/subsub97/github-readme-stats)
-
-  [![subsub97's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=subsub97)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
- </details>
 
 
-<details>
- <summary> 🧬 Git Info</summary>
- <div>
- 
- ![3D_log](./profile-3d-contrib/profile-south-season-animate.svg)
+## 📫 Contact
 
- </div>
-</details>
-
- 
- 
-## ⚒️ Skills ⚒️
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-     <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-    </div><br>
-</div>
-
-## 📞 CONTACT 📞
-
-
-<span>
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-</a></span>
-
-
-
-
+<a href="mailto:kimdheuk97@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
