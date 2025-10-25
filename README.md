@@ -19,10 +19,10 @@
 * **함께 성장**: 동료와의 지식 공유로 팀 생산성 극대화하기
 
 
-## 🚀 Currently Learning
-
+## 🚀 Currently Learning
 * 다양한 유형의 **알고리즘 문제 해결**
-* **Spring Boot** 기반 서버 아키텍처 심화 학습
+* **Spring Boot** 기반 서버 아키텍처 심화 학습
+  * 현재 학습 중: [토비의 스프링 클린 코드](https://github.com/subsub97/tobi-clean-spring)
 
 
 ## 🛠️ Tech Stack
@@ -85,6 +85,7 @@
 ## 🧑‍💻 Ongoing Study
 
 * **Daily Algorithm Study** : 자료구조·알고리즘 문제를 해결하고 솔루션을 공유합니다. <a href="https://github.com/babplus-algorithm-study/daily-algorithm"><img src="https://img.shields.io/badge/Study Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=godqhr721)](https://solved.ac/godqhr721)
 
 
 
