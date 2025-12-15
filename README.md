@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=922e50&height=220&section=header&text=CLEAN%20CODER&fontSize=70&fontColor=black&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=922e50&height=220&section=header&text=공부하는%20개발자&fontSize=70&fontColor=orange&animation=fadeIn" alt="banner"/>
 </p>
 
 ## 👋 About Me
@@ -21,8 +21,8 @@
 
 ## 🚀 Currently Learning
 * 다양한 유형의 **알고리즘 문제 해결**
-* **Spring Boot** 기반 서버 아키텍처 심화 학습
-  * 현재 학습 중: [토비의 스프링 클린 코드](https://github.com/subsub97/tobi-clean-spring)
+* **JAVA** 
+  * 현재 학습 중: [이펙티브자바 스터디](https://github.com/EJ-Study/2025-effective-java)
 
 
 ## 🛠️ Tech Stack
