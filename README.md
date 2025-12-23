@@ -98,8 +98,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subsub97" alt="WakaTime"/>
 </p>
 
-![3D\_log](./profile-3d-contrib/profile-south-season-animate.svg)
-
 </details>
 
 
